@@ -1,0 +1,60 @@
+{
+  "image": "https://chatfi.s3.ap-southeast-1.amazonaws.com/images/5749.png",
+  "name": "Chat-GPT Finance #5749",
+  "tokenId": "5749",
+  "external_url": "https://twitter.com/ChatFi_AI",
+  "attributes": [
+    {
+      "trait_type": "glasses",
+      "value": "0x0f02e"
+    },
+    {
+      "trait_type": "hat",
+      "value": "0xf249a"
+    },
+    {
+      "trait_type": "facemask",
+      "value": "0x18193"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "0x002cd"
+    },
+    {
+      "trait_type": "earpros",
+      "value": "0x1d295"
+    },
+    {
+      "trait_type": "hair",
+      "value": "0x940cd"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "0x7a376"
+    },
+    {
+      "trait_type": "nose",
+      "value": "0x39af7"
+    },
+    {
+      "trait_type": "eyebrow",
+      "value": "0x53636"
+    },
+    {
+      "trait_type": "beards",
+      "value": "0x9807c"
+    },
+    {
+      "trait_type": "ears",
+      "value": "0xdcd11"
+    },
+    {
+      "trait_type": "body",
+      "value": "0x41dea"
+    },
+    {
+      "trait_type": "background",
+      "value": "0x8415a"
+    }
+  ]
+}
