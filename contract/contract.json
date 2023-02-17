@@ -1,7 +1,7 @@
 {
     "name": "ChatFi",
     "description": "Ensuring General Intelligence Benefits Web3 Users First",
-    "image": "external-link-url/image.png",
+    "image": "https://raw.githubusercontent.com/ChatFinance/chatfi/main/contract/logo.png",
     "external_link": "https://twitter.com/ChatFi_AI",
     "seller_fee_basis_points": 200, 
     "fee_recipient": "0x595b85b4A418e3B8df897D02F5BD49167D00862F"
